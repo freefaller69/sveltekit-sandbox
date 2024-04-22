@@ -19,5 +19,5 @@
 </script>
 
 <h1>SvelteKit Sandbox</h1>
-<p>This is a sandbox application for evaluating certain approaches with SvelteKit.</p>
+<p>This is a sandbox application for evaluating front end approaches with SvelteKit.</p>
 <AlienFx {textContent} {mediaContent1} {mediaContent2} />
