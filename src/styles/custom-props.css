@@ -1,0 +1,22 @@
+:root {
+    /* Fonts */
+    --font-primary: Montserrat;
+    --font-secondary: Lato;
+    --font-emphatic: 'Exo 2 Variable', sans-serif;
+
+    /* Colors */
+    --color-background: var(--white-primary);
+    --color-primary: var(--chili-red);
+    --color-accent: var(--yln-mn-blue);
+    --color-text: var(--black);
+
+    /* black, chili-red and claret should have white text */
+    --black: hsl(247, 82%, 2%, 1);
+    --chili-red: hsl(8, 69%, 47%, 1);
+    --claret: hsl(334, 94%, 28%, 1);
+    --light-blue: hsl(193, 31%, 71%, 1);
+    --white-primary: hsl(0, 4%, 95%, 1);
+    --yln-mn-blue: hsl(214, 70%, 35%, 1);
+
+    --bgc-primary: lawngreen;
+}
